@@ -1,3 +1,13 @@
+// Question : Divide two integers without using multiplication, division and mod operator and return the floor of the result of the division.
+// Example : 5 / 2 = 2
+// Constraints : If there can be overflow cases, return INT_MAX.
+// INT_MAX = 2^31 - 1
+// Asked in Microsoft and Amazon
+
+Note: INT_MAX = 2^31 - 1
+
+Return the floor of the result of the division.
+
 package Bit_Manipulation_Algorithms;
 
 import java.util.*;
