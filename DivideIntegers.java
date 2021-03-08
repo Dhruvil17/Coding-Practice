@@ -4,10 +4,6 @@
 // INT_MAX = 2^31 - 1
 // Asked in Microsoft and Amazon
 
-Note: INT_MAX = 2^31 - 1
-
-Return the floor of the result of the division.
-
 package Bit_Manipulation_Algorithms;
 
 import java.util.*;
